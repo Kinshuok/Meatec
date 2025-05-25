@@ -1,5 +1,5 @@
 
-# Thought Process Behind Each Step
+# MeaTEC Assignment
 
 THOUGHT PROCESS BEHIND EACH STEP
 
